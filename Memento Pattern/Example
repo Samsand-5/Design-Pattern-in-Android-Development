@@ -1,0 +1,3 @@
+class MyViewModel(private val state: SavedStateHandle) : ViewModel() {
+    val data = state.getLiveData("key")
+}
