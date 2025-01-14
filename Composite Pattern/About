@@ -1,0 +1,1 @@
+This pattern composes objects into tree structures. The ViewGroup and View hierarchy in Android are examples.
