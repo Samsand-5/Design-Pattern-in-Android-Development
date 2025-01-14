@@ -1,0 +1,4 @@
+class MediaPlayerState {
+    fun play() { /* ... */ }
+    fun pause() { /* ... */ }
+}
