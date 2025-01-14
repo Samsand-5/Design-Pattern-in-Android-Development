@@ -1,0 +1,8 @@
+class CustomFragmentFactory : FragmentFactory() {
+    override fun instantiate(classLoader: ClassLoader, className: String): Fragment {
+        return when (className) {
+            MyFragment::class.java.name -> MyFragment(arguments)
+            else -> super.instantiate(classLoader, className)
+        }
+    }
+}
