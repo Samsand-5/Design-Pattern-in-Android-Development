@@ -1,0 +1,2 @@
+val inputStream = FileInputStream(file)
+val bufferedStream = BufferedInputStream(inputStream)
