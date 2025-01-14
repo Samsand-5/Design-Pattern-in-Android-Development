@@ -1,0 +1,3 @@
+class GetUserUseCase(private val repository: UserRepository) {
+    fun execute() = repository.getUser()
+}
