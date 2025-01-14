@@ -1,0 +1,6 @@
+val alertDialog = AlertDialog.Builder(this)
+    .setTitle("Title")
+    .setMessage("Message")
+    .setPositiveButton("OK", null)
+    .create()
+alertDialog.show()
