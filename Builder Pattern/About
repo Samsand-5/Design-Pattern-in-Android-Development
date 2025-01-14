@@ -1,0 +1,1 @@
+The Builder Pattern helps construct complex objects step by step. In Android, AlertDialog.Builder or Notification.Builder are great examples.
