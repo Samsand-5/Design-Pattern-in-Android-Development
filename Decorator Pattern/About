@@ -1,0 +1,1 @@
+This pattern dynamically adds functionality to an object. Wrapping InputStream in BufferedInputStream is an example.
