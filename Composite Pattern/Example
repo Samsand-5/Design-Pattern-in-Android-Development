@@ -1,0 +1,5 @@
+val linearLayout = LinearLayout(context).apply {
+    orientation = LinearLayout.VERTICAL
+    addView(TextView(context))
+    addView(Button(context))
+}
