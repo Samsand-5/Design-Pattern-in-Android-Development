@@ -1,0 +1,5 @@
+val mediaPlayer = MediaPlayer().apply {
+    setDataSource("audio_file.mp3")
+    prepare()
+    start()
+}
