@@ -1,0 +1,1 @@
+val locationManager = context.getSystemService(Context.LOCATION_SERVICE) as LocationManager
