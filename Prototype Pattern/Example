@@ -1,0 +1,2 @@
+val originalView = TextView(context)
+val clonedView = originalView.copy()
