@@ -1,0 +1,1 @@
+The State Pattern manages state-dependent behavior. In Android, it can be used for media player states.
