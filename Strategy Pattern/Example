@@ -1,0 +1,2 @@
+val strategy = if (isTablet) TabletLayoutStrategy() else PhoneLayoutStrategy()
+strategy.applyLayout()
