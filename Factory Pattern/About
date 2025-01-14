@@ -1,0 +1,1 @@
+The Factory Pattern is used to create objects without specifying the exact class. In Android, FragmentFactory can be used to dynamically create fragments.
