@@ -1,0 +1,1 @@
+This pattern abstracts data sources and provides a clean API. It’s widely used with Room and Retrofit.
