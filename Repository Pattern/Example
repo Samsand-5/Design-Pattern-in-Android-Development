@@ -1,0 +1,4 @@
+class Repository(private val api: ApiService, private val dao: Dao) {
+    fun fetchData() = api.getData()
+    fun saveData(data: List<Data>) = dao.insertAll(data)
+}
