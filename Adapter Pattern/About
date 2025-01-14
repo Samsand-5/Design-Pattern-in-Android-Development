@@ -1,0 +1,1 @@
+This pattern converts one interface into another. The RecyclerView.Adapter is a common example in Android.
