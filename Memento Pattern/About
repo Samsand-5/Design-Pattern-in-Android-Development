@@ -1,0 +1,1 @@
+The Memento Pattern saves an object’s state. SavedStateHandle in ViewModel is an example.
