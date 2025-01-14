@@ -1,0 +1,3 @@
+viewModel.liveData.observe(this) { data ->
+    textView.text = data
+}
