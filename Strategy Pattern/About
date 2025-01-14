@@ -1,0 +1,1 @@
+This pattern defines a family of algorithms and lets you choose one at runtime. In Android, it is used for handling different UI states.
