@@ -1,0 +1,1 @@
+This pattern ensures a single instance of a class. Common use cases in Android include SharedPreferences, Retrofit, and Room database instances.
