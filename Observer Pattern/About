@@ -1,0 +1,2 @@
+The Observer Pattern is used to notify observers of changes. In Android, LiveData is commonly used.
+
